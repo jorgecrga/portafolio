@@ -2,9 +2,9 @@
 ¡Bienvenido a mí portafolio! Aquí encontrarás algunos de los proyectos en los que he trabajado.
 
 ## Contenido 🗂️
-- [Python] (#Python)
-- [Power BI] (#Power BI)
-- [SQL] (#SQL)
+- [Python] (#python)
+- [Power BI] (#power-bi)
+- [SQL] (#sql)
 
 # Python
 | Proyecto | Descripción | Herramientas |
